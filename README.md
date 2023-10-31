@@ -1,24 +1,19 @@
-## Program 3 - Image Ascii Art 
+##  Image Ascii Art 
 ### Samuel Olatunde 
 ### Description:
 
-In this assignment, we implement [this](https://www.youtube.com/watch?v=1MXIGYrMk80) youtube tutorial on visual studio code. The tutorial has us do the following:
-* write a Go package that checks to see what mascot you choose
-* implement a main.go file to run the mascot package
-* create a test to check your package is running correctly
-
-Aditionally, the program uses the quote.go package to print a quote on the console 
-
-
-
+This repo implements 4 modules that perform basic image image processing tasks and provides a example of to used these modules in [Colortest](https://github.com/SamOlatunde/img_mod/tree/main/Colortest).
 
 ### Files
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [mascot.go](https://github.com/SamOlatunde/4143-PLC/tree/main/Assignments/P01/mascot/mascot.go)        |  Contains frunction that returns name mascot of choice     |
-|   2   | [mascot_test.go](https://github.com/SamOlatunde/4143-PLC/tree/main/Assignments/P01/mascot/mascot_test.go)  | tests the "mascot.go" file         |
-|   3   | [main.go](https://github.com/SamOlatunde/4143-PLC/tree/main/Assignments/P01/main.go) | Driver code, uses runs tthe fucntion located in the mascot.go file and prints the result to the console|
+|   1   | [Colors](https://github.com/SamOlatunde/img_mod/tree/main/Colors)        |  Exportable module that converts an image to its raw data (pixels and RGB values)     |
+|   2   | [GetPic](https://github.com/SamOlatunde/img_mod/tree/main/GetPic)  | Exportable module that converts gets a picture from a website        |
+|   3   | [Grayscale](https://github.com/SamOlatunde/img_mod/tree/main/Grayscale) | Exportable module that converts a picture to Gayscale |
+|   4   | [Text](https://github.com/SamOlatunde/img_mod/tree/main/Text) | Exportable module that adds text to an image  |
+|   5   | [Colortest](https://github.com/SamOlatunde/img_mod/tree/main/Colortest) | Module that tests the modules specifiied above|
+
 
 
 ### Instructions
