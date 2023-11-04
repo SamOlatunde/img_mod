@@ -14,4 +14,3 @@ This repo implements 4 packages that perform basic image image processing tasks 
 |   4   | [Text](https://github.com/SamOlatunde/img_mod/tree/main/Text) | Exportable package that adds text to an image  |
 |   5   | [Colortest](https://github.com/SamOlatunde/img_mod/tree/main/Colortest) | package that tests the modules specifiied above|
 
-
