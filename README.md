@@ -15,10 +15,6 @@ This repo implements 4 packages that perform basic image image processing tasks 
 |   5   | [Colortest](https://github.com/SamOlatunde/img_mod/tree/main/Colortest) | package that tests the modules specifiied above|
 
 
-
-### Instructions
-- Make sure to install the golang extension in vscode 
-- download the quote.go package
-
+ 
 
 
